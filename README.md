@@ -1,7 +1,3 @@
-// Shoaib Ahmed (212902019)
-
-//Project Title: "ATM Banking System".
-
 #include <stdio.h>
 #include <time.h>
 
